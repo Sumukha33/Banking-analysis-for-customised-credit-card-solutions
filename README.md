@@ -1,4 +1,4 @@
-# Banking Analysis for Credit Card Customization
+# Banking Analysis for customized credit card solutions
 
 ## Project Overview
 
